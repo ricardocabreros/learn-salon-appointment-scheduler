@@ -126,3 +126,12 @@ git push origin
 git push origin -u
 git status
 git add .
+git commit -m "Project Complete"
+git push origin
+git push
+git push --set-upstream origin main
+git pull
+git branch --set-upstream-to=https://github.com/ricardocabreros/learn-salon-appointment-scheduler.git
+git push -u
+git status
+git add .
